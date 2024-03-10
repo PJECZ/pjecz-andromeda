@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "pjecz-andromeda-pelican"
+version = "0.1.0"
+description = "Sitio web justiciadigital.gob.mx. Hecho con Pelican."
+authors = ["Guillermo Valdes <guillermo.valdes@pjecz.gob.mx>"]
+license = "AGPL3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pelican = "^4.9.1"
+markdown = "^3.5.2"
+click = "^8.1.7"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.2.0"
+isort = "^5.13.2"
+pylint = "^3.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 128
+
+[tool.isort]
+line_length = 128
+profile = "black"

@@ -1,0 +1,16 @@
+.directory
+.DS_Store
+.~lock.*
+
+*.py[cod]
+
+.bashrc
+.env
+poetry.lock
+
+__pycache__/
+*.egg-info/
+
+/.venv/
+/output/
+/venv/
