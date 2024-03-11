@@ -1,0 +1,12 @@
+.bashrc
+.gcloudignore
+.git
+.gitignore
+poetry.lock
+
+**pycache**/
+
+/.venv
+/.vscode
+
+/setup.cfg
