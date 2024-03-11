@@ -4,7 +4,7 @@ Category: Políticas de uso
 Date: 2018-03-15 12:40
 Modified: 2018-04-16 11:00
 
-El uso del sitio del **Poder Judicial del Estado de Coahuila de Zaragoza** en Internet www.pjecz.gob.mx o de cualquiera de sus componentes, implica la aceptación expresa de los siguientes **Términos de Uso del Sitio Web.**
+El uso del sitio del **Poder Judicial del Estado de Coahuila de Zaragoza** en Internet www.justiciadigital.gob.mx o de cualquiera de sus componentes, implica la aceptación expresa de los siguientes **Términos de Uso del Sitio Web.**
 
 - El **Poder Judicial del Estado de Coahuila de Zaragoza** siempre ha otorgado la mayor importancia a difundir información de calidad, apegada a las mejores metodologías, por ello ha creado este sitio en Internet para facilitar a los usuarios el acceso a la información que genera y recopila.
 - Este sitio contiene medidas de seguridad para proteger la información de cualquier alteración realizada por terceros, sin embargo, el **Poder Judicial del Estado de Coahuila de Zaragoza** no asume ninguna responsabilidad por la alteración o manipulación de los datos una vez publicados en él.
