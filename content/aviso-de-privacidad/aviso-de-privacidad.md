@@ -1,10 +1,10 @@
 Title: Aviso de Privacidad
 Slug: aviso-de-privacidad
-URL: aviso-de-privacidad/
-Save_As: aviso-de-privacidad/index.html
+Category: Aviso de privacidad
 Date: 2020-04-15 15:32
 Modified: 2020-04-15 15:32
-
+URL: aviso-de-privacidad/
+Save_As: aviso-de-privacidad/index.html
 
 El **Poder Judicial del Estado de Coahuila de Zaragoza,** utilizará los datos
 personales aquí recabados para los trámites correspondientes del Organismo como

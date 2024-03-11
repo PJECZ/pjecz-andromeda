@@ -5,25 +5,29 @@ Configuration file for Pelican
 # Author, sitename, and siteurl
 AUTHOR = "Poder Judicial del Estado de Coahuila de Zaragoza"
 SITENAME = "Justicia Digital"
-SITEDESCRIPTION = "Plataformas y APIs del Poder Judicial del Estado de Coahuila de Zaragoza."
+SITEDESCRIPTION = "Plataformas y APIs del Poder Judicial del Estado de Coahuila de Zaragoza"
 SITEURL = ""
 
 # Content path
 PATH = "content"
 
 # Categories titles
-CATEGORIES_TITLES = {
-    "blog": "Blog",
-    "aviso-de-privacidad": "Aviso de privacidad",
-    "licencias": "Licencias",
-    "politicas-de-uso": "Políticas de uso",
-}
+CATEGORIES_TITLES = {"blog": "Blog"}
 
 # Article paths
 ARTICLE_PATHS = ["blog"]
 
 # Pages paths
-PAGE_PATHS = ["aviso-de-privacidad", "licencias", "politicas-de-uso"]
+PAGE_PATHS = [
+    "aviso-de-privacidad",
+    "datos-abiertos",
+    "licencias",
+    "plataforma-web",
+    "politicas-de-uso",
+    "portal-notarias",
+    "portal-pagos",
+    "sistema-citas",
+]
 
 # Static paths and files
 STATIC_PATHS = ["favicon.ico", "robots.txt"]
