@@ -6,7 +6,7 @@ Modified: 2020-04-27 17:02
 
 Al utilizar la información del **Poder Judicial del Estado de Coahuila de Zaragoza**, usted acepta expresamente los siguientes **Términos de Uso de la Información.**
 
-## El Usuario:
+### El Usuario:
 
 - Puede hacer y distribuir copias de la información, sin alterar ni suprimir sus metadatos.
 - Puede difundir y publicar la información.
@@ -24,7 +24,7 @@ Al utilizar la información del **Poder Judicial del Estado de Coahuila de Zarag
 - No debe utilizar la información con objeto de engañar o confundir a la población variando el sentido original de la misma y su veracidad.
 - No debe aparentar que el uso que haga de la información, representa una postura oficial del **Poder Judicial del Estado de Coahuila de Zaragoza** o que el mismo está avalado, integrado, patrocinado o apoyado por la fuente de origen.
 
-## El Poder Judicial del Estado de Coahuila de Zaragoza:
+### El Poder Judicial del Estado de Coahuila de Zaragoza:
 
 - No será responsable por la interpretación y aplicación que el usuario haga de los resultados obtenidos a través del uso de la información; por lo que cualquier decisión basada en su interpretación excluye al **Poder Judicial del Estado de Coahuila de Zaragoza** de responsabilidad alguna. Así mismo, el **Poder Judicial del Estado de Coahuila de Zaragoza** no será responsable de las diferencias obtenidas por precisiones, redondeos o truncamientos numéricos, así como por cambios técnicos o tecnológicos que puedan incidir en tales resultados.
 - La vigencia de estos Términos de Libre Uso es por tiempo indefinido siempre que no se contravengan las disposiciones anteriores.

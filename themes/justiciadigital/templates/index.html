@@ -53,8 +53,8 @@
             {% for article in articles_page.object_list %}
             <div class="card border-0">
                 <div class="card-body">
-                    {% if article.preview -%}<a href="{{ SITEURL }}/{{ article.url }}"><img class="float-start mx-3" src="{{ SITEURL }}/{{ article.url }}{{ article.preview }}" alt="Imagen previa"></a>{%- endif %}
-                    <h3 class="card-title mt-0"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+                    {% if article.preview -%}<a href="{{ SITEURL }}/{{ article.url }}/index.html"><img class="float-start mx-3" src="{{ SITEURL }}/{{ article.url }}{{ article.preview }}" alt="Imagen previa"></a>{%- endif %}
+                    <h3 class="card-title mt-0"><a href="{{ SITEURL }}/{{ article.url }}/index.html">{{ article.title }}</a></h3>
                     <p class="card-text">{{ article.summary | striptags }}</p>
                 </div>
             </div>
