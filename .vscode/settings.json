@@ -1,15 +1,13 @@
 {
   "black-formatter.args": ["--line-length", "128"],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "github.branchProtection": true,
   "git.branchProtection": ["main"],
   "prettier.configPath": ".vscode/prettierrc.json",
   "pylint.args": ["--max-line-length", "128"],
-  "[html]": {
-    "editor.formatOnSave": false
-  },
   "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter"
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
   }
 }
