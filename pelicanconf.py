@@ -7,6 +7,7 @@ AUTHOR = "Poder Judicial del Estado de Coahuila de Zaragoza"
 SITENAME = "Justicia Digital"
 SITEDESCRIPTION = "Plataformas y APIs del Poder Judicial del Estado de Coahuila de Zaragoza"
 SITEURL = ""
+SITELOGO = "theme/images/icon-normal.png"
 
 # Content path
 PATH = "content"
@@ -22,6 +23,7 @@ PAGE_PATHS = [
     "aviso-de-privacidad",
     "contacto",
     "datos-abiertos",
+    "inicial",
     "licencias",
     "plataforma-web",
     "politicas-de-uso",
