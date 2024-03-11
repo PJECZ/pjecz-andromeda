@@ -20,6 +20,7 @@ ARTICLE_PATHS = ["blog"]
 # Pages paths
 PAGE_PATHS = [
     "aviso-de-privacidad",
+    "contacto",
     "datos-abiertos",
     "licencias",
     "plataforma-web",
