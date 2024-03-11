@@ -11,7 +11,7 @@ El uso del sitio del **Poder Judicial del Estado de Coahuila de Zaragoza** en In
 - Este sitio en Internet ofrece enlaces a otros organismos nacionales e internacionales. No obstante, el **Poder Judicial del Estado de Coahuila de Zaragoza** no asume ningún tipo de responsabilidad por el contenido, ni por el uso de esos sitios.
 - Las leyes, reglamentos y demás disposiciones que aparecen en el sitio no crean derechos ni establecen obligaciones distintas de las contenidas en las disposiciones publicadas en el Diario Oficial de la Federación.
 
-## El Usuario:
+### El Usuario:
 
 - Puede utilizar la información del **Poder Judicial del Estado de Coahuila de Zaragoza** con apego a lo dispuesto en los Términos de Uso de la Información.
 - Se obliga a hacer buen uso del sitio, respetando la normatividad vigente en la materia, y a no causar daños en el mismo.
@@ -19,7 +19,7 @@ El uso del sitio del **Poder Judicial del Estado de Coahuila de Zaragoza** en In
 - Exime al **Poder Judicial del Estado de Coahuila de Zaragoza** de toda responsabilidad por los daños que el uso del sitio le pudieran ocasionar en forma incidental o consecuente con su equipo, información, patrimonio o persona.
 - Acepta y se obliga a utilizar el sitio para fines lícitos y con apego a las disposiciones legales aplicables.
 
-## El Poder Judicial del Estado de Coahuila de Zaragoza:
+### El Poder Judicial del Estado de Coahuila de Zaragoza:
 
 - No garantiza el funcionamiento de la red de comunicaciones y por lo tanto no asume responsabilidad alguna sobre la disponibilidad de este sitio.
 - No garantiza el suministro continuo de la información.

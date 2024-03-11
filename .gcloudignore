@@ -4,7 +4,7 @@
 .gitignore
 poetry.lock
 
-**pycache**/
+__pycache__/
 
 /.venv
 /.vscode
