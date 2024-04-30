@@ -1,8 +1,4 @@
 User-Agent: *
-Disallow: /author
-Disallow: /category
 Disallow: /css
-Disallow: /feeds
 Disallow: /js
-Disallow: /tag
 Disallow: /theme

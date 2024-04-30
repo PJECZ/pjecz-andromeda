@@ -3,9 +3,9 @@ Configuration file for Pelican
 """
 
 # Author, sitename, and siteurl
-AUTHOR = "Poder Judicial del Estado de Coahuila de Zaragoza"
+AUTHOR = "PJECZ Direccion de Informatica"
 SITENAME = "Justicia Digital"
-SITEDESCRIPTION = "Plataformas y APIs del Poder Judicial del Estado de Coahuila de Zaragoza"
+SITEDESCRIPTION = "Plataformas del Poder Judicial del Estado de Coahuila de Zaragoza"
 SITEURL = ""
 SITELOGO = "theme/images/icon-normal.png"
 
@@ -20,16 +20,13 @@ ARTICLE_PATHS = ["blog"]
 
 # Pages paths
 PAGE_PATHS = [
-    "aviso-de-privacidad",
+    "aviso_de_privacidad",
     "contacto",
-    "datos-abiertos",
+    "datos",
     "inicial",
     "licencias",
-    "plataforma-web",
-    "politicas-de-uso",
-    "portal-notarias",
-    "portal-pagos",
-    "sistema-citas",
+    "plataformas",
+    "politicas_de_uso",
 ]
 
 # Static paths and files

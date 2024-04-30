@@ -1,7 +1,8 @@
 Title: Portal de Notarías
-Slug: notarias
-Date: 2020-03-21 18:32
-URL: notarias/
-Save_As: notarias/index.html
+Slug: plataformas-notarias
+Date: 2024-04-30 15:25
+Modified: 2024-04-30 15:25
+URL: plataformas/
+Save_as: plataformas/notarias.html
 
 **AVISO:** Esta página está en modo de prueba. Estamos trabajando en escribir su contenido. ¡Regresa pronto!

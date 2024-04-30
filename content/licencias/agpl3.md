@@ -4,6 +4,8 @@ Summary: El software que construye este sitio web usa la Licencia Pública Gener
 Category: Licencias
 Date: 2020-04-27 16:48
 Modified: 2020-04-27 16:48
+URL: licencias/agpl
+Save_as: licencias/agpl.html
 
 Version 3, 19 November 2007
 

@@ -1,10 +1,10 @@
 Title: Aviso de Privacidad
-Slug: aviso-de-privacidad
-Category: Aviso de privacidad
-Date: 2020-04-15 15:32
-Modified: 2020-04-15 15:32
-URL: aviso-de-privacidad/
-Save_As: aviso-de-privacidad/index.html
+Slug: aviso_de_privacidad
+Category: Aviso de Privacidad
+Date: 2024-04-30 15:25
+Modified: 2024-04-30 15:25
+URL: privacy_policy
+Save_as: privacy_policy.html
 
 El **Poder Judicial del Estado de Coahuila de Zaragoza,** utilizará los datos
 personales aquí recabados para los trámites correspondientes del Organismo como
@@ -13,11 +13,11 @@ contratos de prestación de servicios, servicios de proveedores, eventos de
 capacitación realizados por las Direcciones y Unidades Administrativas.
 
 Los datos personales que serán sometidos a tratamiento son los siguientes:
-nombre, edad, domicilio, correo electrónico, teléfono, CURP, RFC y currículo. Lo
-anterior, de acuerdo a lo establecido en la **Ley de Acceso a la Información
-Pública para el Estado de Coahuila de Zaragoza** y en la **Ley de Protección de
-Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de
-Zaragoza.**
+nombre, edad, domicilio, correo electrónico, teléfono, CURP, RFC y currículo.
+Lo anterior, de acuerdo a lo establecido en la
+**Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza**
+y en la
+**Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.**
 
 Hacemos de su conocimiento que la recabada información no será compartida con
 ninguna entidad, institución u órgano. En caso de que por alguna razón se
