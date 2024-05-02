@@ -8,5 +8,5 @@ handlers:
     static_files: output/\1
     upload: output/(.*\.(css|js|png|jpg))
   - url: /(.*)
-    static_files: output/\1
-    upload: output/(.*)
+    static_files: output/\1.html
+    upload: output/(.*).html
