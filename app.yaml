@@ -4,6 +4,9 @@ handlers:
   - url: /
     static_files: output/index.html
     upload: output/index.html
+  - url: /(.*\.(css|js|png|jpg))
+    static_files: output/\1
+    upload: output/(.*\.(css|js|png|jpg))
   - url: /(.*)
     static_files: output/\1.html
     upload: output/(.*).html
