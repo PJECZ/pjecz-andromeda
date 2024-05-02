@@ -1,5 +1,5 @@
 Title: Aviso de Privacidad
-Slug: aviso_de_privacidad
+Slug: privacy_policy
 Category: Aviso de Privacidad
 Date: 2024-04-30 15:25
 Modified: 2024-04-30 15:25

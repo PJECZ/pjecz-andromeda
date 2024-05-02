@@ -19,15 +19,7 @@ CATEGORIES_TITLES = {"blog": "Blog"}
 ARTICLE_PATHS = ["blog"]
 
 # Pages paths
-PAGE_PATHS = [
-    "aviso_de_privacidad",
-    "contacto",
-    "datos",
-    "inicial",
-    "licencias",
-    "plataformas",
-    "politicas_de_uso",
-]
+PAGE_PATHS = ["pages"]
 
 # Static paths and files
 STATIC_PATHS = ["favicon.ico", "robots.txt"]
