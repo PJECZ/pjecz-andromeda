@@ -1,5 +1,5 @@
 Title: Plataforma Web
-Slug: plataformas-plataforma-web
+Slug: plataformas_plataforma_web
 Date: 2024-04-30 15:25
 Modified: 2024-04-30 15:25
 URL: plataformas/

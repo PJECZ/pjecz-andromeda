@@ -1,9 +1,9 @@
 Title: Contacto
-Slug: contacto
+Slug: contact
 Date: 2024-04-30 15:25
 Modified: 2024-04-30 15:25
-URL: contacto/
-Save_as: contacto.html
+URL: contact/
+Save_as: contact.html
 
 
 ### Correo electrónico

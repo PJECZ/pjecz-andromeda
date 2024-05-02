@@ -1,8 +1,8 @@
-Title: Datos Abiertos
-Slug: datos
+Title: Portal de Pagos
+Slug: plataformas_pagos
 Date: 2024-04-30 15:25
 Modified: 2024-04-30 15:25
-URL: datos/
-Save_as: datos/index.html
+URL: plataformas/
+Save_as: plataformas/pagos.html
 
 **AVISO:** Esta página está en modo de prueba. Estamos trabajando en escribir su contenido. ¡Regresa pronto!

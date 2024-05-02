@@ -1,5 +1,5 @@
 Title: Políticas de Uso
-Slug: politicas_de_uso
+Slug: service_terms
 Category: Políticas de uso
 Date: 2024-04-30 15:25
 Modified: 2024-04-30 15:25
