@@ -2,7 +2,7 @@ Title: Contacto
 Slug: contact
 Date: 2024-04-30 15:25
 Modified: 2024-04-30 15:25
-URL: contact/
+URL: contact
 Save_as: contact.html
 
 

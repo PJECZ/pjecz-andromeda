@@ -19,10 +19,10 @@ CATEGORIES_TITLES = {"blog": "Blog"}
 ARTICLE_PATHS = ["blog"]
 
 # Pages paths
-PAGE_PATHS = ["pages"]
+PAGE_PATHS = ["pages", "plataformas"]
 
 # Static paths and files
-STATIC_PATHS = ["favicon.ico", "robots.txt"]
+STATIC_PATHS = ["plataformas", "favicon.ico", "robots.txt"]
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = False
