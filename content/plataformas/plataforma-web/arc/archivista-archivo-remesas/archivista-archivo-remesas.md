@@ -1,4 +1,4 @@
-Title: Recepción y Asignación de remesas por parte del rol Archivista
+Title: Archivar una remesas por parte del rol Archivista
 Slug: plataforma_web_arc_archivista_remesas
 Date: 2024-10-25 12:00
 Modified: 2024-10-25 12:00
@@ -6,7 +6,7 @@ URL: plataformas/plataforma-web/arc/archivista-archivo-remesas/
 Save_as: plataformas/plataforma-web/arc/archivista-archivo-remesas/index.html
 
 
-Recepción y Asignación de remesas por parte del _rol Archivista_.
+Archivar una remesas por parte del _rol Archivista_.
 
 ## Índice
 
